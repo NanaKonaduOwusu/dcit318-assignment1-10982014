@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCIT318-10982014", "DCIT318-10982014\DCIT318-10982014.csproj", "{5DDEFAFD-7331-4936-B040-E695EE97B995}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketPriceCalculator", "TicketPriceCalculator\TicketPriceCalculator.csproj", "{D7D40E80-02AE-4E42-9DF5-05794D4D88CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5DDEFAFD-7331-4936-B040-E695EE97B995}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DDEFAFD-7331-4936-B040-E695EE97B995}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DDEFAFD-7331-4936-B040-E695EE97B995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D40E80-02AE-4E42-9DF5-05794D4D88CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D40E80-02AE-4E42-9DF5-05794D4D88CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D40E80-02AE-4E42-9DF5-05794D4D88CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D40E80-02AE-4E42-9DF5-05794D4D88CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
