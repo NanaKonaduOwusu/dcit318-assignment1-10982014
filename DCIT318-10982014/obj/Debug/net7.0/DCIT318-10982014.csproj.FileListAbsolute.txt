@@ -1,0 +1,14 @@
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\bin\Debug\net7.0\DCIT318-10982014.exe
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\bin\Debug\net7.0\DCIT318-10982014.deps.json
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\bin\Debug\net7.0\DCIT318-10982014.runtimeconfig.json
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\bin\Debug\net7.0\DCIT318-10982014.dll
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\bin\Debug\net7.0\DCIT318-10982014.pdb
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\obj\Debug\net7.0\DCIT318-10982014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\obj\Debug\net7.0\DCIT318-10982014.AssemblyInfoInputs.cache
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\obj\Debug\net7.0\DCIT318-10982014.AssemblyInfo.cs
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\obj\Debug\net7.0\DCIT318-10982014.csproj.CoreCompileInputs.cache
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\obj\Debug\net7.0\DCIT318-10982014.dll
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\obj\Debug\net7.0\refint\DCIT318-10982014.dll
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\obj\Debug\net7.0\DCIT318-10982014.pdb
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\obj\Debug\net7.0\DCIT318-10982014.genruntimeconfig.cache
+C:\Users\Nana\source\repos\DCIT318-10982014\DCIT318-10982014\obj\Debug\net7.0\ref\DCIT318-10982014.dll
